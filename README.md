@@ -66,11 +66,12 @@ style.css
     background-size:cover;
     background-image:url(background.jpeg);
     background-position:center center;
-    height:720px;
+    box-shadow: inset 0 0 0 2px black;
+    height:650px;
     width:500px;
     margin: auto;
     border: 13px solid;
-    border-color:beige;
+    border-color:rgb(85, 191, 230);
 }
 .insight{
     padding-left: 15px;
@@ -97,23 +98,25 @@ style.css
     position:relative;
     top:50px;
     font-size: 20px;
+    padding-left: 10px;
 }
 .writer{
     font-size:30px;
     position: relative;
-    top:50px; 
+    top:40px;
+    padding-left: 10px; 
 }
 .bottom{
     font-size: 20px;
     position:relative;
-    top:20px;
+    top:10px;
     left:420px;
 }
 
 ```
 
 ## OUTPUT:
-![alt text](<covers/bookapp/static/Screenshot (55).png>)
+![alt text](<covers/bookapp/static/Screenshot (56).png>)
 
 
 ## RESULT:
