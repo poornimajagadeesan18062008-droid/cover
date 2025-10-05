@@ -1,0 +1,56 @@
+.name{
+    color:aqua;
+    text-align: center;
+    font-family: italic;
+}
+.backgroundi{
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-image:url(background.jpeg);
+    background-position:center center;
+    height:720px;
+    width:500px;
+    margin: auto;
+    border: 13px solid;
+    border-color:beige;
+}
+.insight{
+    padding-left: 15px;
+    width:130px;
+}
+.topic{
+    text-align:center;
+    font-style: italic;
+    color:blueviolet;
+    font-size: 30px;
+}
+.des{
+    font-family: italic;
+
+}
+.img{
+    width: 90px; 
+    height:120px;
+    position:relative;
+    top: 70px;
+    left:380px; 
+}
+.edit{
+    position:relative;
+    top:50px;
+    font-size: 20px;
+}
+.writer{
+    font-size:30px;
+    position: relative;
+    top:50px; 
+}
+.bottom{
+    font-size: 20px;
+    position:relative;
+    top:20px;
+    left:420px;
+}
+
+
+    
